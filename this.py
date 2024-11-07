@@ -1,2 +1,1 @@
-def now():
-    return "thi is now function"
+print("hello")
